@@ -1,5 +1,5 @@
 # Sales Prediction using python
-<img src="[https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.pn](https://www.embedded-robotics.com/wp-content/uploads/2022/04/Forecast-Sales-using-Machine-Learning-1536x1024.jpeg)">
+<img src="https://www.embedded-robotics.com/wp-content/uploads/2022/04/Forecast-Sales-using-Machine-Learning.jpeg">
 
 Sales prediction means predicting how much of a product people will buy based on factors
 such as the amount you spend to advertise your product, the segment of people you
