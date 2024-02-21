@@ -7,3 +7,4 @@ advertise for, or the platform you are advertising on about your product.
 Typically, a product and service-based business always need their Data Scientist to predict
 their future sales with every step they take to manipulate the cost of advertising their
 product. So here's the task of sales prediction with machine learning using Python.
+PS: Please do not forget to drop a star if you like it!
